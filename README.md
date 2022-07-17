@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmandaAquino
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Python
 <!---
 - 👀 I’m interested in ...
 - 💞️ I’m looking to collaborate on ...
